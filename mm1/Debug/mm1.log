@@ -1,0 +1,33 @@
+﻿  mm1.cpp
+D:\studing\course3\matmod\mm1\mm1.cpp(15,21): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(20,72): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(30,35): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(32,23): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(32,17): warning C4244: инициализация: преобразование "_Ty" в "__int64", возможна потеря данных
+          with
+          [
+              _Ty=long double
+          ]
+D:\studing\course3\matmod\mm1\mm1.cpp(33,18): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(36,25): warning C4244: инициализация: преобразование "__int64" в "long double", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(37,27): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(37,49): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(43,30): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(44,30): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(46,11): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(46,20): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(49,19): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(49,15): warning C4244: инициализация: преобразование "_Ty" в "__int64", возможна потеря данных
+          with
+          [
+              _Ty=long double
+          ]
+D:\studing\course3\matmod\mm1\mm1.cpp(50,11): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(50,18): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(51,11): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(51,20): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(54,11): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(54,18): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(69,51): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+D:\studing\course3\matmod\mm1\mm1.cpp(77,51): warning C4244: аргумент: преобразование "__int64" в "const unsigned int", возможна потеря данных
+  mm1.vcxproj -> D:\studing\course3\matmod\mm1\Debug\mm1.exe
