@@ -1,0 +1,8 @@
+﻿  iism2.cpp
+C:\Users\Aliaksandr Boi\Downloads\iism2.cpp(21,22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Aliaksandr Boi\Downloads\iism2.cpp(103,17): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=long double
+          ]
+  matmod2.vcxproj -> D:\studing\course3\matmod\mm2\matmod2\Debug\matmod2.exe
